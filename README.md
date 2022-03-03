@@ -17,9 +17,9 @@ My name is Isabella Melo and I'm a computer science student. <img alt="Desenho C
 
 ## Connect with me
 
-[<img alt="isabella-cpmelo | LinkedIn" align="center" width="35px" src="assets/img/linkedin.png" />][linkedin]
-[<img alt="isa.cpmelo | Instagram" align="center" width="35px" hspace="10" src="assets/img/instagram.png" />][instagram] 
-[<img alt="Isabella | E-mail" align="center" width="35px" height = "45px" src="assets/img/gmail.png" />][gmail] 
+[<img alt="isabella-cpmelo | LinkedIn" align="center" width="30px" src="assets/img/linkedin.png" />][linkedin]
+[<img alt="isa.cpmelo | Instagram" align="center" width="30px" hspace="15" src="assets/img/instagram.png" />][instagram] 
+[<img alt="Isabella | E-mail" align="center" width="30px" height = "35px" src="assets/img/gmail.png" />][gmail] 
 
 [instagram]: https://www.instagram.com/isa.cpmelo/
 [linkedin]: https://www.linkedin.com/in/isabella-cpmelo/
