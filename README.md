@@ -2,7 +2,7 @@
 ## Welcome to my GitHub profile!
 
 <div align="left">
- <img height="130em" src="assets/img/meu-emoji.png" />
+ <img height="130em" alt="Meu emoji" src="assets/img/meu-emoji.png" />
 </div>
 </br>
 
@@ -10,19 +10,23 @@
  <p>I hope you enjoy my repositories and may the code be with you!</p>
 
 <div align="left">
- <img align="center" alt="HTML5" width="130px" src="assets/img/yoda.gif"/>
+ <img align="center" alt="Yoda" width="130px" src="assets/img/yoda.gif"/>
 </div>
 
 
 
 ## Languages and Tools
 <div>
- <img align="center" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
- <img align="center" alt="CSS3" width="35px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
- <img align="center" alt="JavaScript" width="35px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
- <img align="center" alt="Python" width="35px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
- <img align="center" alt="Git" width="35px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
- <img align="center" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+ <img align="center" alt="HTML5" width="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+ <img align="center" alt="CSS3" width="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+ <img align="center" alt="JavaScript" width="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+ <img align="center" alt="Python" width="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+ <img align="center" alt="C Sharp" width="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+ <img align="center" alt="Dot NET" width="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
+ <img align="center" alt="Git" width="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+ <img align="center" alt="Visual Studio Code" width="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+ <img align="center" alt="Visual Studio" width="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+
 </div>
 
 ## Connect with me
@@ -38,11 +42,11 @@
 ## Stats
 <div>
  <a href="https://github.com/isabellacpmelo">
- <img align="left" height="150em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellacpmelo&layout=compact&langs_count=7&theme=dracula"/>
- <img align="left" height="150em" width="300" src="https://github-readme-stats.vercel.app/api?username=isabellacpmelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellacpmelo&layout=compact&langs_count=7&theme=dracula"/>
+ <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=isabellacpmelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<img width="620px" src="https://github.com/isabellacpmelo/isabellacpmelo/blob/output/github-contribution-grid-snake.svg" />
+<img width="700em" src="https://github.com/isabellacpmelo/isabellacpmelo/blob/output/github-contribution-grid-snake.svg" />
   
 
 
