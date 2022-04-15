@@ -15,25 +15,35 @@
 
 
 
-## Languages and Tools
+## Languages and Frameworks
 <div>
- <img align="center" alt="HTML5" width="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
- <img align="center" alt="CSS3" width="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
- <img align="center" alt="JavaScript" width="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
- <img align="center" alt="Python" width="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
- <img align="center" alt="C Sharp" width="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
- <img align="center" alt="Dot NET" width="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
- <img align="center" alt="Git" width="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
- <img align="center" alt="Visual Studio Code" width="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
- <img align="center" alt="Visual Studio" width="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+ <img align="center" alt="HTML5" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+ <img align="center" alt="CSS3" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+ <img align="center" alt="JavaScript" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+ <img align="center" alt="Python" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+ <img align="center" alt="C Sharp" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+ <img align="center" alt="Dot NET" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
+</div>
 
+## Tools
+<div>
+ <img align="center" alt="Git" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+ <img align="center" alt="Visual Studio Code" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+ <img align="center" alt="Visual Studio" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+ <img align="center" alt="PyCharm" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
+</div>
+
+## Operating Systems
+<div>
+<img align="center" alt="Windows" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+<img align="center" alt="Linux" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </div>
 
 ## Connect with me
 
-[<img alt="isabella-cpmelo | LinkedIn" align="center" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img alt="isa.cpmelo | Instagram" align="center" width="40px" hspace="10" src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721672-instagram_108066.png" />][instagram] 
-[<img alt="Isabella | E-mail" align="center" height = "40px" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" />][gmail] 
+[<img alt="isabella-cpmelo | LinkedIn" align="center" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img alt="isa.cpmelo | Instagram" align="center" height="65px" hspace="10" src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721672-instagram_108066.png" />][instagram] 
+[<img alt="Isabella | E-mail" align="center" height="65px" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" />][gmail] 
 
 [instagram]: https://www.instagram.com/isa.cpmelo/
 [linkedin]: https://www.linkedin.com/in/isabella-cpmelo/
@@ -42,11 +52,11 @@
 ## Stats
 <div>
  <a href="https://github.com/isabellacpmelo">
- <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellacpmelo&layout=compact&langs_count=7&theme=dracula"/>
- <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=isabellacpmelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img align="left" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellacpmelo&layout=compact&langs_count=7&theme=dracula"/>
+ <img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=isabellacpmelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<img width="700em" src="https://github.com/isabellacpmelo/isabellacpmelo/blob/output/github-contribution-grid-snake.svg" />
+<img width="750em" src="https://github.com/isabellacpmelo/isabellacpmelo/blob/output/github-contribution-grid-snake.svg" />
   
 
 
