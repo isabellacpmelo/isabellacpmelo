@@ -2,7 +2,7 @@
 ## Welcome to my GitHub profile!
 
 <div align="left">
- <img height="130em" alt="Meu emoji" src="assets/img/meu-emoji.png" />
+ <img height="200em" alt="Meu emoji" src="assets/img/meu-emoji.png" />
 </div>
 </br>
 
@@ -10,7 +10,7 @@
  <p>I hope you enjoy my repositories and may the code be with you!</p>
 
 <div align="left">
- <img align="center" alt="Yoda" width="130px" src="assets/img/yoda.gif"/>
+ <img align="center" alt="Yoda" width="200px" src="assets/img/yoda.gif"/>
 </div>
 
 
