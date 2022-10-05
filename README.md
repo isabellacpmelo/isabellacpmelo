@@ -2,7 +2,7 @@
 ## Welcome to my GitHub profile!
 
 <div align="left">
- <img height="200em" alt="Meu emoji" src="assets/img/meu-emoji.png" />
+ <img height="150em" alt="Meu emoji" src="assets/img/meu-emoji.png" />
 </div>
 </br>
 
@@ -10,40 +10,44 @@
  <p>I hope you enjoy my repositories and may the code be with you!</p>
 
 <div align="left">
- <img align="center" alt="Yoda" width="200px" src="assets/img/yoda.gif"/>
+ <img alt="Yoda" width="150px" src="assets/img/yoda.gif"/>
 </div>
 
 
 
 ## Languages and Frameworks
+<!-- https://devicon.dev/ -->
 <div>
- <img align="center" alt="HTML5" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
- <img align="center" alt="CSS3" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
- <img align="center" alt="JavaScript" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
- <img align="center" alt="Python" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
- <img align="center" alt="C Sharp" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
- <img align="center" alt="Dot NET" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
+ <img align="center" alt="HTML5" height="50px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+ <img align="center" alt="CSS3" height="50px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
+ <img align="center" alt="JavaScript" height="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+ <img align="center" alt="VueJS" height="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/>
+ <img align="center" alt="NuxtJS" height="85px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg"/>
+ <img align="center" alt="C Sharp" height="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+ <img align="center" alt="Dot NET" height="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
+ <img align="center" alt="Python" height="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 </div>
 
 ## Tools
 <div>
- <img align="center" alt="Git" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
- <img align="center" alt="Visual Studio Code" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
- <img align="center" alt="Visual Studio" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
- <img align="center" alt="PyCharm" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
+ <img align="center" alt="Git" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
+ <img align="center" height="40px" hspace="10" alt="GitHub" src="assets/img/github.png" />
+ <img align="center" alt="Bitbucket" height="50px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg"/>
+ <img align="center" alt="Visual Studio Code" height="50px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
+ <img align="center" alt="PyCharm" height="100px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg"/>
 </div>
 
 ## Operating Systems
 <div>
-<img align="center" alt="Windows" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
-<img align="center" alt="Linux" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="center" alt="Windows" height="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+<img align="center" alt="Linux" height="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </div>
 
 ## Connect with me
 
-[<img alt="isabella-cpmelo | LinkedIn" align="center" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img alt="isa.cpmelo | Instagram" align="center" height="65px" hspace="10" src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721672-instagram_108066.png" />][instagram] 
-[<img alt="Isabella | E-mail" align="center" height="65px" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" />][gmail] 
+[<img alt="isabella-cpmelo | LinkedIn" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img alt="isa.cpmelo | Instagram" align="center" height="45px" hspace="10" src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721672-instagram_108066.png" />][instagram] 
+[<img alt="Isabella | E-mail" align="center" height="45px" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" />][gmail] 
 
 [instagram]: https://www.instagram.com/isa.cpmelo/
 [linkedin]: https://www.linkedin.com/in/isabella-cpmelo/
