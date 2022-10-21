@@ -6,37 +6,43 @@
 </div>
 </br>
 
- <p>My name is Isabella Melo and I'm a computer science student going further into the world of programming.</p>
- <p>I hope you enjoy my repositories and may the code be with you!</p>
+ <p>My name is Isabella Melo, I'm a front-end developer and computer science student. I hope you like my Github profile!</p>
+ <p>Lately I have been going further into the world of programming and studying several technologies  that are part of it. My profile around here is my big study notebook, which I'm always changing and updating.</p>
+ <p>If you have any curiosity or suggestion, I leave my contact here if you find it interesting to send me a message.</p>
+ <p>Finally, I hope you enjoy my repositories and <strong>may the code be with you!</strong></p>
 
 <div align="left">
- <img alt="Yoda" width="150px" src="assets/img/yoda.gif"/>
+ <img alt="Yoda drinking coffee" width="150px" src="assets/img/yoda.gif"/>
 </div>
 
 
 
-## Languages and Frameworks
+## Languages
 <!-- https://devicon.dev/ -->
 <div>
  <img align="center" alt="HTML5" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
  <img align="center" alt="CSS3" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
- <img align="center" alt="Tailwind" height="130px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
- <img align="center" alt="Bootstrap" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
- <img align="center" alt="JavaScript" height="50px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+ <img align="center" alt="JavaScript" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+ <img align="center" alt="C Sharp" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+ <img align="center" alt="Python" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+</div>
+
+## Frameworks and Platforms
+<div>
  <img align="center" alt="VueJS" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/>
+ <img align="center" alt="Bootstrap" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
+ <img align="center" alt="Tailwind" height="130px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
  <img align="center" alt="NuxtJS" height="100px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg"/>
  <img align="center" alt="NodeJS" height="100px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"/>
- <img align="center" alt="C Sharp" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
  <img align="center" alt="Dot NET" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
- <img align="center" alt="Python" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 </div>
 
 ## Tools
 <div>
- <img align="center" alt="Git" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
- <img align="center" height="40px" hspace="10" alt="GitHub" src="assets/img/github.png" />
- <img align="center" alt="Bitbucket" height="50px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg"/>
- <img align="center" alt="Visual Studio Code" height="50px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
+ <img align="center" alt="Git" height="100px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
+ <img align="center" height="60px" hspace="10" alt="GitHub" src="assets/img/github.png" />
+ <img align="center" alt="Bitbucket" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg"/>
+ <img align="center" alt="Visual Studio Code" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
  <img align="center" alt="PyCharm" height="100px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg"/>
 </div>
 
