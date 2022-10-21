@@ -8,8 +8,8 @@
 
  <p>My name is Isabella Melo, I'm a front-end developer and computer science student. I hope you like my Github profile!</p>
  <p>Lately I have been going further into the world of programming and studying several technologies  that are part of it. My profile around here is my big study notebook, which I'm always changing and updating.</p>
- <p>If you have any curiosity or suggestion, I leave my contact here if you find it interesting to send me a message.</p>
- <p>Finally, I hope you enjoy my repositories and <strong>may the code be with you!</strong></p>
+ <p>You can send me a message if you have any curiosity or suggestion, my contacts are below in the "Connect with me" section.</p>
+ <p>Finally, I hope you enjoy my repositories and <strong>may the code be with you!</strong> <img align="center" alt="Yoda" width="30px" src="https://img.icons8.com/nolan/64/darth-vader.png"/></p>
 
 <div align="left">
  <img alt="Yoda drinking coffee" width="150px" src="assets/img/yoda.gif"/>
@@ -33,30 +33,30 @@
  <img align="center" alt="Bootstrap" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
  <img align="center" alt="Tailwind" height="130px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
  <img align="center" alt="NuxtJS" height="100px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg"/>
- <img align="center" alt="NodeJS" height="100px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"/>
+ <img align="center" alt="NodeJS" height="90px" hspace="10" src="https://img.icons8.com/color/96/000000/nodejs.png"/>
  <img align="center" alt="Dot NET" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
 </div>
 
 ## Tools
 <div>
- <img align="center" alt="Visual Studio Code" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
- <img align="center" alt="PyCharm" height="100px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg"/>
-  <img align="center" alt="Git" height="100px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
- <img align="center" height="50px" hspace="10" alt="GitHub" src="assets/img/github.png" />
+ <img align="center" alt="Visual Studio Code" height="60px" hspace="10" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+ <img align="center" alt="PyCharm" height="60px" hspace="10" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+  <img align="center" alt="Git" height="60px" hspace="10" src="https://img.icons8.com/color/48/000000/git.png"/>
+ <img align="center" height="60px" hspace="10" alt="GitHub" src="https://img.icons8.com/nolan/64/github.png"/>
  <img align="center" alt="Bitbucket" height="55px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg"/>
 </div>
 
 ## Operating Systems
 <div>
-<img align="center" alt="Windows" height="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
-<img align="center" alt="Linux" height="40px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="center" alt="Windows" height="60px" hspace="10" src="https://img.icons8.com/color/96/000000/windows-logo.png"/>
+<img align="center" alt="Linux" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </div>
 
 ## Connect with me
 
-[<img alt="isabella-cpmelo | LinkedIn" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img alt="isa.cpmelo | Instagram" align="center" height="45px" hspace="10" src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721672-instagram_108066.png" />][instagram] 
-[<img alt="Isabella | E-mail" align="center" height="45px" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" />][gmail] 
+[<img alt="isabella-cpmelo | LinkedIn" align="center" height="60px" src="https://img.icons8.com/fluency/96/000000/linkedin.png"/>][linkedin]
+[<img alt="isa.cpmelo | Instagram" align="center" height="60px" hspace="10" src="https://img.icons8.com/fluency/96/000000/instagram-new.png" />][instagram] 
+[<img alt="Isabella | E-mail" align="center" height="60px" src="https://img.icons8.com/fluency/96/000000/gmail.png" />][gmail] 
 
 [instagram]: https://www.instagram.com/isa.cpmelo/
 [linkedin]: https://www.linkedin.com/in/isabella-cpmelo/
