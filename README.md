@@ -39,11 +39,11 @@
 
 ## Tools
 <div>
- <img align="center" alt="Git" height="100px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
- <img align="center" height="60px" hspace="10" alt="GitHub" src="assets/img/github.png" />
- <img align="center" alt="Bitbucket" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg"/>
  <img align="center" alt="Visual Studio Code" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
  <img align="center" alt="PyCharm" height="100px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg"/>
+  <img align="center" alt="Git" height="100px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
+ <img align="center" height="50px" hspace="10" alt="GitHub" src="assets/img/github.png" />
+ <img align="center" alt="Bitbucket" height="55px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg"/>
 </div>
 
 ## Operating Systems
