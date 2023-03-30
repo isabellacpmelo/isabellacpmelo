@@ -6,10 +6,12 @@
 </div>
 </br>
 
- <p>My name is Isabella Melo, I'm a front-end developer and computer science student. I hope you like my Github profile!</p>
- <p>Lately I have been going further into the world of programming and studying several technologies  that are part of it. My profile around here is my big study notebook, which I'm always changing and updating.</p>
- <p>You can send me a message if you have any curiosity or suggestion, my contacts are below in the "Connect with me" section.</p>
- <p>Finally, I hope you enjoy my repositories and <strong>may the code be with you!</strong> <img align="center" alt="Yoda" width="30px" src="https://img.icons8.com/nolan/64/darth-vader.png"/></p>
+
+ <p>Hi, my name is Isabella Melo, I'm a front-end developer and Computer Science student. I hope you enjoy browsing through my Github profile!</p>
+ <p>Recently, I've been delving deeper into the world of programming and exploring various technologies that make up this vast field. My profile serves as my digital study notebook, which I'm constantly revising and updating.</p>
+ <p>Feel free to message me if you have any questions or suggestions. My contact information is provided in the "Connect with me" section below.
+</p>
+ <p>Lastly, I hope you find my repositories useful, and may the code be with you!</strong> <img align="center" alt="Yoda" width="30px" src="https://img.icons8.com/nolan/64/darth-vader.png"/></p>
 
 <div align="left">
  <img alt="Yoda drinking coffee" width="150px" src="assets/img/yoda.gif"/>
