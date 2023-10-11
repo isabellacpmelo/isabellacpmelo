@@ -67,8 +67,8 @@
 ## Stats
 <div>
  <a href="https://github.com/isabellacpmelo">
- <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellacpmelo&layout=compact&langs_count=7&theme=dracula"/>
- <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=isabellacpmelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api?username=isabellacpmelo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+ <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellacpmelo&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
 <!-- <img width="750em" src="https://github.com/isabellacpmelo/isabellacpmelo/blob/output/github-contribution-grid-snake.svg" /> -->
