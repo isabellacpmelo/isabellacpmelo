@@ -7,7 +7,7 @@
 </br>
 
 
- <p>Hi, my name is Isabella Melo, I'm a front-end developer and Computer Science student. I hope you enjoy browsing through my Github profile!</p>
+ <p>Hi, my name is Isabella Melo, I'm a Full Stack developer and Computer Science student. I hope you enjoy browsing through my Github profile!</p>
  <p>Recently, I've been delving deeper into the world of programming and exploring various technologies that make up this vast field. My profile serves as my digital study notebook, which I'm constantly revising and updating.</p>
  <p>Feel free to message me if you have any questions or suggestions. My contact information is provided in the "Connect with me" section below.
 </p>
