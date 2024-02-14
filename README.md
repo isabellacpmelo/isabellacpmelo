@@ -2,7 +2,7 @@
 ## Welcome to my GitHub profile!
 
 <div align="left">
- <img height="180em" alt="Meu emoji" src="assets/img/meu-emoji.png" />
+ <img height="200em" alt="Greetings" src="https://raw.githubusercontent.com/isabellacpmelo/isabellacpmelo/main/assets/img/greeting-emoji.png" />
 </div>
 </br>
 
