@@ -7,11 +7,10 @@
 </br>
 
 
- <p>Hi, my name is Isabella Melo, I'm a Full Stack developer and Computer Science student. I hope you enjoy browsing through my Github profile!</p>
- <p>Recently, I've been delving deeper into the world of programming and exploring various technologies that make up this vast field. My profile serves as my digital study notebook, which I'm constantly revising and updating.</p>
- <p>Feel free to message me if you have any questions or suggestions. My contact information is provided in the "Connect with me" section below.
-</p>
- <p>Lastly, I hope you find my repositories useful, and may the code be with you!</strong> <img align="center" alt="Yoda" width="30px" src="https://img.icons8.com/nolan/64/darth-vader.png"/></p>
+ <p>Hi, I'm Isabella Melo – a Full Stack Developer and Computer Science student. Welcome to my GitHub!</p>
+ <p>Lately, I’ve been diving deeper into programming and exploring new technologies across this ever-evolving field. My GitHub profile is like my digital notebook, where I document my learning journey, share projects, and continuously refine my skills.</p>
+ <p>Feel free to reach out if you have any questions, suggestions, or just want to connect! You’ll find my contact information in the "Connect with me" section below.</p>
+ <p>I hope my repositories are helpful and inspire you in your own coding journey. Happy browsing – and may the code be with you!</strong> <img align="center" alt="Yoda" width="30px" src="https://img.icons8.com/nolan/64/darth-vader.png"/></p>
 
 <div align="left">
  <img alt="Yoda drinking coffee" width="150px" src="assets/img/yoda.gif"/>
