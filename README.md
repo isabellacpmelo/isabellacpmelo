@@ -25,7 +25,7 @@
  <img align="center" alt="CSS3" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
  <img align="center" alt="JavaScript" height="55px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
  <img align="center" alt="Python" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
- <img align="center" alt="C Sharp" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<!--  <img align="center" alt="C Sharp" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> -->
 </div>
 
 ## Frameworks and Platforms
@@ -35,7 +35,7 @@
  <img align="center" alt="NuxtJS" height="100px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg"/>
  <img align="center" alt="NodeJS" height="90px" hspace="10" src="https://img.icons8.com/color/96/000000/nodejs.png"/>
  <img align="center" alt="Django" height="40px" hspace="10" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"/>
- <img align="center" alt="Dot NET" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
+<!--  <img align="center" alt="Dot NET" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/> -->
  <img align="center" alt="Tailwind" height="130px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
 </div>
 
