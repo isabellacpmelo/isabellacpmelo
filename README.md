@@ -23,42 +23,56 @@
 <div>
  <img align="center" alt="HTML5" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
  <img align="center" alt="CSS3" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
- <img align="center" alt="JavaScript" height="55px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+ <img align="center" alt="Javascript" height="55px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+ <img align="center" alt="Typescript" height="55px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
  <img align="center" alt="Python" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 <!--  <img align="center" alt="C Sharp" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> -->
 </div>
 
 ## Frameworks and Platforms
+
+### Frontend
 <div>
+ <img align="center" alt="Tailwind" width="120px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
+ <img align="center" alt="Bootstrap" width="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"/>
+ <img align="center" alt="React" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
  <img align="center" alt="VueJS" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/>
- <img align="center" alt="Quasar" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-plain.svg" />
+ <img align="center" alt="Quasar" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-plain-wordmark.svg" />         
  <img align="center" alt="NuxtJS" height="100px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg"/>
- <img align="center" alt="NodeJS" height="90px" hspace="10" src="https://img.icons8.com/color/96/000000/nodejs.png"/>
- <img align="center" alt="Django" height="40px" hspace="10" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"/>
-<!--  <img align="center" alt="Dot NET" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/> -->
- <img align="center" alt="Tailwind" height="130px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
 </div>
+
+
+### Backend
+<div>
+ <img align="center" alt="NodeJS" height="90px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
+ <img align="center" alt="Strapi" height="60px" hspace="10" src="https://devicons.railway.com/i/strapi.svg"/>
+ <img align="center" alt="Django" height="40px" hspace="10" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"/>
+ <img align="center" alt="MySQL" height="50px" hspace="10" src="https://devicons.railway.com/i/mysql.svg"/>
+<!--  <img align="center" alt="Dot NET" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/> -->
+</div>
+
 
 ## Tools
 <div>
- <img align="center" alt="Visual Studio Code" height="55px" hspace="10" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+ <img align="center" alt="Visual Studio Code" height="55px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"/>
  <img align="center" alt="Vite" height="50px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"/>
  <img align="center" height="100px" hspace="10" alt="Eslint" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-plain-wordmark.svg" />
- <img align="center" alt="Git" height="60px" hspace="10" src="https://img.icons8.com/color/48/000000/git.png"/>
+ <img align="center" alt="Git" height="90px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"/>
  <img align="center" height="60px" hspace="10" alt="GitHub" src="https://img.icons8.com/nolan/64/github.png"/>
  <img align="center" alt="Bitbucket" height="55px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg"/>
+ <img align="center" alt="Azure Devops" height="55px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"/>
 </div>
 
 ## Operating Systems
 <div>
-<img align="center" alt="Windows" height="60px" hspace="10" src="https://img.icons8.com/color/96/000000/windows-logo.png"/>
+<img align="center" alt="Windows" height="50px" hspace="10" src="https://devicons.railway.com/i/windows10.svg"/>
 <img align="center" alt="Linux" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </div>
 
 ## Connect with me
 
-[<img alt="isabella-cpmelo | LinkedIn" align="center" height="60px" hspace="10" src="https://img.icons8.com/fluency/96/000000/linkedin.png"/>][linkedin]
-[<img alt="Isabella | E-mail" align="center" height="60px" hspace="10"  src="https://img.icons8.com/fluency/96/000000/gmail.png" />][gmail] 
+[<img alt="isabella-cpmelo | LinkedIn" align="center" height="50px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>][linkedin]
+[<img alt="Isabella | E-mail" align="center" height="60px" hspace="10"  src="https://devicons.railway.com/i/maildev.svg" />][gmail] 
 
 [linkedin]: https://www.linkedin.com/in/isabella-cpmelo/
 [gmail]: mailto:isacpmelo@gmail.com
