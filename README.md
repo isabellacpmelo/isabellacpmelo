@@ -1,8 +1,14 @@
-##  <div align="center"> 👋 Hi! I’m Isabella Melo, welcome to my `GitHub profile` (●'◡'●).</div>
+##  <div align="center"> 👋 Hi! I’m Isabella Melo, welcome to my `GitHub profile`.</div>
 
 <div align="center">
   <img alt="Github Header" src="assets/img/github-profile-header.png"/>
 <!--  <img height="200em" alt="Greetings" src="https://raw.githubusercontent.com/isabellacpmelo/isabellacpmelo/main/assets/img/my-emoji.png" /> -->
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=4997&pause=1000&color=90B103&background=A4A4A400&width=435&lines=console.log(%22Hello+World!%22);print(%22Hello+World!%22)" alt="Typing SVG" /></a>
 </div>
 
 <br>
