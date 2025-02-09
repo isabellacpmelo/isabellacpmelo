@@ -76,14 +76,17 @@
 </div>
 
 ## Stats
-<div>
-<!--  <a href="https://github.com/isabellacpmelo"> -->
-<!--  <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api?username=isabellacpmelo&show_icons=true&theme=calm_pink&include_all_commits=true&count_private=true"/> -->
- <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api?username=isabellacpmelo&show_icons=true&theme=calm_pink&count_private=true"/>
- <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellacpmelo&layout=compact&langs_count=7&theme=calm_pink"/>
+<div align="center">
+  <img align="right" width="45%" height="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellacpmelo&theme=gruvbox&layout=pie" alt="readme-typing-svg">
+  <p>
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=gruvbox&preferLogin=false">
+      <img width="50%" alt="isabellacpmelo's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/isabellacpmelo?cardType=level-alternate&theme=gruvbox&preferLogin=false"/>
+    </a>
+  </p>
+  <a href="https://git.io/streak-stats">
+    <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=lariiscriis&theme=gruvbox&background=282828&border=E4E2E2&ring=FABD2F&stroke=FABD2F&fire=FE8019&currStreakNum=8EC07C&sideNums=8EC07C&currStreakLabel=FA7E1A&dates=FA7E1A" alt="GitHub Streak" />
+  </a>
 </div>
-
-<br><br><br><br><br><br><br><br><br><br><br>
 
 ##  <div> Connect with me</div>
 
