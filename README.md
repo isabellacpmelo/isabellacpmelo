@@ -1,7 +1,8 @@
 ##  <div align="center"> 👋 Hi! I’m Isabella Melo, welcome to my `GitHub profile` (●'◡'●).</div>
 
 <div align="center">
- <img height="200em" alt="Greetings" src="https://raw.githubusercontent.com/isabellacpmelo/isabellacpmelo/main/assets/img/my-emoji.png" />
+  <img alt="Github Header" src="assets/img/github-profile-header.png"/>
+<!--  <img height="200em" alt="Greetings" src="https://raw.githubusercontent.com/isabellacpmelo/isabellacpmelo/main/assets/img/my-emoji.png" /> -->
 </div>
 
 <br>
