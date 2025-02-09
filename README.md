@@ -1,13 +1,12 @@
-# Hello, World! 🌎
-## Welcome to my GitHub profile!
+##  <div align="center"> 👋 Hi! I’m Isabella Melo, welcome to my `GitHub profile` (●'◡'●).</div>
 
-<div align="left">
+<div align="center">
  <img height="200em" alt="Greetings" src="https://raw.githubusercontent.com/isabellacpmelo/isabellacpmelo/main/assets/img/my-emoji.png" />
 </div>
-</br>
 
+<br>
 
- <p>Hi, I'm Isabella Melo – a Full Stack Developer and Computer Science student. Welcome to my GitHub!</p>
+ <p>I'm a Full Stack Developer and Computer Science student.</p>
  <p>Lately, I’ve been diving deeper into programming and exploring new technologies across this ever-evolving field. My GitHub profile is like my digital notebook, where I document my learning journey, share projects, and continuously refine my skills.</p>
  <p>Feel free to reach out if you have any questions, suggestions, or just want to connect! You’ll find my contact information in the "Connect with me" section below.</p>
  <p>I hope my repositories are helpful and inspire you in your own coding journey. Happy browsing – and may the code be with you!</strong> <img align="center" alt="Yoda" width="30px" src="https://img.icons8.com/nolan/64/darth-vader.png"/></p>
