@@ -1,4 +1,5 @@
 ##  <div align="center"> 👋 Hi! I’m Isabella Melo, welcome to my `GitHub profile`.</div>
+<br>
 
 <div align="center">
   <img alt="Github Header" src="assets/img/github-profile-header.png"/>
@@ -57,7 +58,6 @@
 <!--  <img align="center" alt="Dot NET" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/> -->
 </div>
 
-
 ## Tools
 <div>
  <img align="center" alt="Visual Studio Code" height="55px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"/>
@@ -75,20 +75,23 @@
 <img align="center" alt="Linux" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </div>
 
-## Connect with me
-
-[<img alt="isabella-cpmelo | LinkedIn" align="center" height="50px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>][linkedin]
-[<img alt="Isabella | E-mail" align="center" height="60px" hspace="10"  src="https://devicons.railway.com/i/maildev.svg" />][gmail] 
-
-[linkedin]: https://www.linkedin.com/in/isabella-cpmelo/
-[gmail]: mailto:isacpmelo@gmail.com
-
 ## Stats
 <div>
- <a href="https://github.com/isabellacpmelo">
- <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api?username=isabellacpmelo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
- <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellacpmelo&layout=compact&langs_count=7&theme=highcontrast"/>
+<!--  <a href="https://github.com/isabellacpmelo"> -->
+<!--  <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api?username=isabellacpmelo&show_icons=true&theme=calm_pink&include_all_commits=true&count_private=true"/> -->
+ <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api?username=isabellacpmelo&show_icons=true&theme=calm_pink&count_private=true"/>
+ <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellacpmelo&layout=compact&langs_count=7&theme=calm_pink"/>
 </div>
+
+<br><br><br><br><br><br><br><br><br>
+
+##  <div> Connect with me</div>
+
+<div>
+  <a href="https://www.linkedin.com/in/isabella-cpmelo/" target="_blank"><img align="center" height="50px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linkedin" /></a>
+  <a href="mailto:isacpmelo@gmail.com" target="_blank"><img align="center" height="60px"  hspace="10" src="https://devicons.railway.com/i/maildev.svg" alt="Email" /></a>
+</div>
+
 
 <!-- <img width="750em" src="https://github.com/isabellacpmelo/isabellacpmelo/blob/output/github-contribution-grid-snake.svg" /> -->
   
