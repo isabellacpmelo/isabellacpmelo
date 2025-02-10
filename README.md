@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-  <img alt="Github Header" src="assets/img/github-profile-header.png"/>
+  <img alt="Github Header" src="assets/img/github-profile-header_02.png"/>
 <!--  <img height="200em" alt="Greetings" src="https://raw.githubusercontent.com/isabellacpmelo/isabellacpmelo/main/assets/img/my-emoji.png" /> -->
 </div>
 
