@@ -76,14 +76,14 @@
 
 ## <div align="center">Stats</div>
 <div align="center">
-  <img align="left" width="45%" height="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellacpmelo&theme=gruvbox&layout=donut-vertical" alt="readme-typing-svg">
+  <img align="left" width="45%" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellacpmelo&theme=gruvbox&layout=donut-vertical" alt="readme-typing-svg">
   <p>
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=gruvbox&preferLogin=false">
-      <img width="50%" alt="isabellacpmelo's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/isabellacpmelo?cardType=level-alternate&theme=gruvbox&preferLogin=false"/>
+      <img width="45%" alt="isabellacpmelo's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/isabellacpmelo?cardType=level-alternate&theme=gruvbox&preferLogin=false"/>
     </a>
   </p>
   <a href="https://git.io/streak-stats">
-    <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=lariiscriis&theme=gruvbox&background=282828&border=E4E2E2&ring=FABD2F&stroke=FABD2F&fire=FE8019&currStreakNum=8EC07C&sideNums=8EC07C&currStreakLabel=FA7E1A&dates=FA7E1A" alt="GitHub Streak" />
+    <img  width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=lariiscriis&theme=gruvbox&background=282828&border=E4E2E2&ring=FABD2F&stroke=FABD2F&fire=FE8019&currStreakNum=8EC07C&sideNums=8EC07C&currStreakLabel=FA7E1A&dates=FA7E1A" alt="GitHub Streak" />
   </a>
 </div>
 
