@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-  <img alt="Github Header" src="assets/img/github-profile-header_02.png"/>
+  <img alt="Github Header" src="assets/img/github-profile-header_03.png"/>
 </div>
 
 <br>
@@ -74,31 +74,29 @@
   <img align="center" alt="Linux" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </div>
 
-## <div align="center">Stats</div>
-<div align="center">
-  <img align="left" width="45%" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellacpmelo&theme=gruvbox&layout=donut-vertical" alt="readme-typing-svg">
-  <p>
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=gruvbox&preferLogin=false">
-      <img width="45%" alt="isabellacpmelo's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/isabellacpmelo?cardType=level-alternate&theme=gruvbox&preferLogin=false"/>
-    </a>
-  </p>
-  <a href="https://git.io/streak-stats">
-    <img  width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=lariiscriis&theme=gruvbox&background=282828&border=E4E2E2&ring=FABD2F&stroke=FABD2F&fire=FE8019&currStreakNum=8EC07C&sideNums=8EC07C&currStreakLabel=FA7E1A&dates=FA7E1A" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br>
-<br>
-
 ##  <div align="center">Connect with me</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/isabella-cpmelo/" target="_blank"><img align="center" height="50px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linkedin" /></a>
-  <a href="mailto:isacpmelo@gmail.com" target="_blank"><img align="center" height="60px"  hspace="10" src="https://devicons.railway.com/i/maildev.svg" alt="Email" /></a>
+  <a href="mailto:isacpmelo@gmail.com" target="_blank"><img align="center" height="60px" src="https://devicons.railway.com/i/maildev.svg" alt="Email" /></a>
 </div>
 
 
-<!-- <img width="750em" src="https://github.com/isabellacpmelo/isabellacpmelo/blob/output/github-contribution-grid-snake.svg" /> -->
+## <div align="center">Stats</div>
+<div align="center">
+  <div>
+    <img align="left" width="350px" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellacpmelo&theme=gruvbox&layout=donut-vertical" alt="readme-typing-svg">
+  </div>
+  <div>
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=gruvbox&preferLogin=false">
+      <img width="390px" alt="isabellacpmelo's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/isabellacpmelo?cardType=level-alternate&theme=gruvbox&preferLogin=false"/>
+    </a>
+    <a href="https://git.io/streak-stats">
+      <img width="387px" src="https://github-readme-streak-stats.herokuapp.com?user=lariiscriis&theme=gruvbox&background=282828&border=E4E2E2&ring=FABD2F&stroke=FABD2F&fire=FE8019&currStreakNum=8EC07C&sideNums=8EC07C&currStreakLabel=FA7E1A&dates=FA7E1A" alt="GitHub Streak" />
+    </a>
+  </div>
+</div>
+
   
 
 
