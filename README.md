@@ -1,8 +1,11 @@
-##  <div align="center"> 👋 Hi! I’m Isabella Melo, welcome to my `GitHub profile`.</div>
+<!-- @format -->
+
+## <div align="center"> 👋 Hi! I’m Isabella Melo, welcome to my `GitHub profile`.</div>
+
 <br>
 
 <div align="center">
-  <img alt="Github Header" src="assets/img/github-profile-header_03.png"/>
+  <img alt="Github Header" src="assets/img/github-profile-header.png"/>
 </div>
 
 <br>
@@ -22,42 +25,105 @@
  <img alt="Yoda drinking coffee" width="150px" src="assets/img/yoda.gif"/>
 </div>
 
-
-
 ## <div align="center">Languages</div>
-<!-- https://devicon.dev/ -->
-<div align="center">
- <img align="center" alt="HTML5" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
- <img align="center" alt="CSS3" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
- <img align="center" alt="Javascript" height="55px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
- <img align="center" alt="Typescript" height="55px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
- <img align="center" alt="Python" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-<!--  <img align="center" alt="C Sharp" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> -->
-</div>
+
+  <div>
+    <table align="center">
+    <tr>
+        <td align="center">
+             <img style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" 
+             alt="java-coffee-cup-logo"/>
+            <br>HTML 
+        </td>
+        <td align="center">
+            <img style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="php-logo"/>
+            <br>CSS
+        </td>
+        <td align="center">
+            <img  style="width: 90%; max-width: 300px;"src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="csharp-logo"/>
+            <br>Javascript
+        </td>
+       <td align="center">
+            <img  style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="cplus-logo"/>
+            <br>Typescript
+        </td>
+        <td align="center">
+            <img  style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="javascript-logo"/>
+            <br>Python
+        </td>
+         </td>
+        <td align="center">
+            <img  style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=q2EvWWP24C1j&format=png&color=000000" alt="sql-logo"/>
+            <br>SQL
+        </td>
+    </tr>
+  </table>
+  </div>
 
 ## <div align="center">Frameworks and Platforms</div>
 
 ### <div align="center">Frontend</div>
-<div align="center">
- <img align="center" alt="Tailwind" width="120px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
- <img align="center" alt="Bootstrap" width="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"/>
- <img align="center" alt="React" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
- <img align="center" alt="VueJS" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/>
- <img align="center" alt="Quasar" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-plain-wordmark.svg" />         
- <img align="center" alt="NuxtJS" height="100px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg"/>
-</div>
 
+<div>
+    <table align="center">
+    <tr>
+        <td align="center">
+             <img style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000"/>
+            <br>Tailwind 
+        </td>
+        <td align="center">
+            <img style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=84710&format=png&color=000000" alt="php-logo"/>
+            <br>Bootstrap
+        </td>
+        <td align="center">
+            <img  style="width: 90%; max-width: 300px;"src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="csharp-logo"/>
+            <br>React
+        </td>
+       <td align="center">
+            <img  style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=dzfo6UeXW9h7&format=png&color=000000" alt="cplus-logo"/>
+            <br>Vue
+        </td>
+        <td align="center">
+            <img  style="width: 90%; max-width: 100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-plain-wordmark.svg" alt="javascript-logo"/>
+            <br>Quasar
+        </td>
+         </td>
+        <td align="center">
+            <img  style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=sttYYg04EKym&format=png&color=000000" alt="sql-logo"/>
+            <br>Nuxt
+        </td>
+    </tr>
+  </table>
+  </div>
 
 ### <div align="center">Backend</div>
-<div align="center">
- <img align="center" alt="NodeJS" height="90px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
- <img align="center" alt="Strapi" height="60px" hspace="10" src="https://devicons.railway.com/i/strapi.svg"/>
- <img align="center" alt="Django" height="40px" hspace="10" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"/>
- <img align="center" alt="MySQL" height="50px" hspace="10" src="https://devicons.railway.com/i/mysql.svg"/>
-<!--  <img align="center" alt="Dot NET" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/> -->
-</div>
+
+<div>
+    <table align="center">
+    <tr>
+        <td align="center">
+             <img style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" 
+             alt="java-coffee-cup-logo"/>
+            <br>Node 
+        </td>
+        <td align="center">
+            <img style="width: 90%; max-width: 100px;" src="https://devicons.railway.com/i/strapi.svg" alt="php-logo"/>
+            <br>Strapi
+        </td>
+        <td align="center">
+            <img  style="width: 90%; max-width: 100px;"src="https://img.icons8.com/?size=100&id=LPmcJ9e0FU7K&format=png&color=000000" alt="csharp-logo"/>
+            <br>Django
+        </td>
+       <td align="center">
+            <img  style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" alt="cplus-logo"/>
+            <br>MySQL
+      </td>
+    </tr>
+  </table>
+  </div>
 
 ## <div align="center">Tools</div>
+
 <div align="center">
  <img align="center" alt="Visual Studio Code" height="55px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"/>
  <img align="center" alt="Vite" height="50px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"/>
@@ -69,20 +135,21 @@
 </div>
 
 ## <div align="center">Operating Systems</div>
+
 <div align="center">
   <img align="center" alt="Windows" height="50px" hspace="10" src="https://devicons.railway.com/i/windows10.svg"/>
   <img align="center" alt="Linux" height="60px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </div>
 
-##  <div align="center">Connect with me</div>
+## <div align="center">Connect with me</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/isabella-cpmelo/" target="_blank"><img align="center" height="50px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linkedin" /></a>
   <a href="mailto:isacpmelo@gmail.com" target="_blank"><img align="center" height="60px" src="https://devicons.railway.com/i/maildev.svg" alt="Email" /></a>
 </div>
 
-
 ## <div align="center">Stats</div>
+
 <div align="center">
   <div>
     <img align="left" width="350px" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellacpmelo&theme=gruvbox&layout=donut-vertical" alt="readme-typing-svg">
@@ -97,13 +164,6 @@
   </div>
 </div>
 
-  
-
-
-
- 
- 
- 
 <!--
 **isabellacpmelo/isabellacpmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://img.icons8.com/color/48/000000/python.png
