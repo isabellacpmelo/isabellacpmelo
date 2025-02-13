@@ -1,6 +1,6 @@
 <!-- @format -->
 
-## <div align="center"> 👋 Hi! I’m Isabella Melo, welcome to my `GitHub profile`.</div>
+## <div align="center"> 👋 Hi there! I’m Isabella Melo, welcome to my `GitHub profile`.</div>
 
 <br>
 
@@ -19,23 +19,31 @@
 <br>
 
 <div>
-  <p>
-    I'm a Full Stack Developer and Computer Science student.
-  </p>
-  <p>
-    Lately, I’ve been diving deeper into programming and exploring new technologies across this ever-evolving field. My GitHub profile is like my digital notebook, where I document my learning journey, share projects, and continuously refine my skills.
-  </p>
-  <p>
-    Feel free to reach out if you have any questions, suggestions, or just want to connect! You’ll find my contact information in the "Connect with me" section below.
-  </p>
-  <p>
-    I hope my repositories are helpful and inspire you in your own coding journey. Happy browsing – and may the code be with you!</strong>
-    <img align="center" alt="Yoda" width="30px" src="https://img.icons8.com/nolan/64/darth-vader.png"/>
-  </p>
+  <ou>
+    <li>
+      👩‍💻 I'm a Full Stack Developer and Computer Science student.
+    </li>
+    <li>
+      🖥️ I specialize in building digital products with modern web and desktop technologies. My main focus is on Frontend development, working with Vue.js, Nuxt.js, Vuetify, and Quasar to create intuitive and high-performance user interfaces. On the Backend, I have experience with Node.js, Python, and Django, building scalable and efficient APIs. I also develop desktop applications using Rust with the Tauri framework.
+    </li>
+    <li>
+      📒 My GitHub serves as a digital notebook where I document my learning journey, share projects, and collaborate with others. I'm always exploring new technologies and refining my skills to stay ahead in this ever-evolving field.
+    </li>
+    <li>
+      📬 Feel free to reach out if you have any questions, suggestions, or just want to connect! You can find my contact details in the "Connect with me" section below.
+    </li>
+  </ou>
 </div>
 
+<br>
+<br>
+
 <div align="center">
-  <img alt="Yoda drinking coffee" width="150px" src="assets/img/yoda.gif"/>
+  <p>
+    I hope my repositories are helpful and inspire you in your own coding journey. Happy browsing – and <strong>may the code be with you!</strong>
+    <img align="center" alt="Yoda" width="20px" src="https://img.icons8.com/?size=100&id=CxFtqXUMqaA2&format=png&color=000000"/>
+  </p>
+  <img align="center" alt="Yoda drinking coffee" width="200px" src="assets/img/yoda.gif">
 </div>
 
 ## <div align="center">Languages</div>
