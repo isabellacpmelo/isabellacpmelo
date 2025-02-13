@@ -31,29 +31,29 @@
     <table align="center">
     <tr>
         <td align="center">
-             <img style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" 
-             alt="java-coffee-cup-logo"/>
+             <img style="width: auto; height: 90px;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" 
+             alt="html-logo"/>
             <br>HTML 
         </td>
         <td align="center">
-            <img style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="php-logo"/>
+            <img style="width: auto; height: 90px;" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css-logo"/>
             <br>CSS
         </td>
         <td align="center">
-            <img  style="width: 90%; max-width: 300px;"src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="csharp-logo"/>
+            <img  style="width: auto; height: 90px;" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="javascript-logo"/>
             <br>Javascript
         </td>
        <td align="center">
-            <img  style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="cplus-logo"/>
+            <img  style="width: auto; height: 90px;" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="typescript-logo"/>
             <br>Typescript
         </td>
         <td align="center">
-            <img  style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="javascript-logo"/>
+            <img  style="width: auto; height: 90px;" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="python-logo"/>
             <br>Python
         </td>
          </td>
         <td align="center">
-            <img  style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=q2EvWWP24C1j&format=png&color=000000" alt="sql-logo"/>
+            <img  style="width: auto; height: 90px;" src="https://img.icons8.com/?size=100&id=q2EvWWP24C1j&format=png&color=000000" alt="sql-logo"/>
             <br>SQL
         </td>
     </tr>
@@ -68,28 +68,28 @@
     <table align="center">
     <tr>
         <td align="center">
-             <img style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000"/>
+             <img style="width: auto; height: 90px;" src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" alt="tailwind-logo"/>
             <br>Tailwind 
         </td>
         <td align="center">
-            <img style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=84710&format=png&color=000000" alt="php-logo"/>
+            <img style="width: auto; height: 90px;" src="https://img.icons8.com/?size=100&id=84710&format=png&color=000000" alt="bootstrap-logo"/>
             <br>Bootstrap
         </td>
         <td align="center">
-            <img  style="width: 90%; max-width: 300px;"src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="csharp-logo"/>
+            <img style="width: auto; height: 90px;" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="react-logo"/>
             <br>React
         </td>
        <td align="center">
-            <img  style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=dzfo6UeXW9h7&format=png&color=000000" alt="cplus-logo"/>
+            <img  style="width: 90%; height: 90px;" src="https://img.icons8.com/?size=100&id=dzfo6UeXW9h7&format=png&color=000000" alt="vue-logo"/>
             <br>Vue
         </td>
         <td align="center">
-            <img  style="width: 90%; max-width: 100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-plain-wordmark.svg" alt="javascript-logo"/>
+            <img style="width: auto; height: 90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-plain-wordmark.svg" alt="quasar-logo"/>
             <br>Quasar
         </td>
          </td>
         <td align="center">
-            <img  style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=sttYYg04EKym&format=png&color=000000" alt="sql-logo"/>
+            <img style="width: auto; height: 90px;" src="https://img.icons8.com/?size=100&id=sttYYg04EKym&format=png&color=000000" alt="nuxt-logo"/>
             <br>Nuxt
         </td>
     </tr>
@@ -102,20 +102,20 @@
     <table align="center">
     <tr>
         <td align="center">
-             <img style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" 
-             alt="java-coffee-cup-logo"/>
+             <img style="width: auto; height: 90px;" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" 
+             alt=">node-logo"/>
             <br>Node 
         </td>
         <td align="center">
-            <img style="width: 90%; max-width: 100px;" src="https://devicons.railway.com/i/strapi.svg" alt="php-logo"/>
+            <img style="width: auto; height: 90px;" src="https://devicons.railway.com/i/strapi.svg" alt="strapi-logo"/>
             <br>Strapi
         </td>
         <td align="center">
-            <img  style="width: 90%; max-width: 100px;"src="https://img.icons8.com/?size=100&id=LPmcJ9e0FU7K&format=png&color=000000" alt="csharp-logo"/>
+            <img style="width: auto; height: 90px;" src="https://img.icons8.com/?size=100&id=LPmcJ9e0FU7K&format=png&color=000000" alt="django-logo"/>
             <br>Django
         </td>
        <td align="center">
-            <img  style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" alt="cplus-logo"/>
+            <img style="width: auto; height: 90px;" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" alt="mysql-logo"/>
             <br>MySQL
       </td>
     </tr>
@@ -123,6 +123,7 @@
   </div>
 
 ## <div align="center">Tools</div>
+
 
 <div align="center">
  <img align="center" alt="Visual Studio Code" height="55px" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"/>
