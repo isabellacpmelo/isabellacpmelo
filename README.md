@@ -227,9 +227,7 @@
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=gruvbox&preferLogin=false">
       <img width="390px" alt="isabellacpmelo's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/isabellacpmelo?cardType=level-alternate&theme=gruvbox&preferLogin=false"/>
     </a>
-    <a href="https://git.io/streak-stats">
-      <img width="387px" src="https://github-readme-streak-stats.herokuapp.com?user=lariiscriis&theme=gruvbox&background=282828&border=E4E2E2&ring=FABD2F&stroke=FABD2F&fire=FE8019&currStreakNum=8EC07C&sideNums=8EC07C&currStreakLabel=FA7E1A&dates=FA7E1A" alt="GitHub Streak" />
-    </a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=isabellacpmelo&theme=gruvbox&border_radius=6.1&card_width=387" alt="GitHub Streak" /></a>
   </div>
 </div>
 
