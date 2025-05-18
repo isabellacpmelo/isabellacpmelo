@@ -221,7 +221,7 @@
 
 <div align="center">
   <div>
-    <img align="left" width="350px" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellacpmelo&theme=gruvbox&layout=donut-vertical" alt="readme-typing-svg">
+    <img align="left" width="350px" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellacpmelo&hide=css,html,portugol,batchfile&theme=gruvbox&layout=donut-vertical" alt="readme-typing-svg">
   </div>
   <div>
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=gruvbox&preferLogin=false">
