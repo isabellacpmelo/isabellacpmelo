@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img alt="Github Header" src="assets/img/github-profile-header.png"/>
+  <img alt="Github Header" src="https://raw.githubusercontent.com/isabellacpmelo/isabellacpmelo/refs/heads/main/assets/img/github-profile-header.png"/>
 </div>
 
 <br>
