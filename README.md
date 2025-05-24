@@ -232,10 +232,6 @@
 </div>
 
 <!--
-**isabellacpmelo/isabellacpmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://img.icons8.com/color/48/000000/python.png
-![snake gif]https://github.com/isabellacpmelo/isabellacpmelo/blob/output/github-contribution-grid-snake.svg
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
