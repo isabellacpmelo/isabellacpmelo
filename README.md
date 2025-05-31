@@ -221,13 +221,18 @@
 
 <div align="center">
   <div>
-    <img align="left" width="350px" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellacpmelo&hide=css,html,portugol,batchfile&theme=gruvbox&layout=compact" alt="readme-typing-svg">
-  </div>
-  <div>
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=gruvbox&preferLogin=false">
-      <img width="390px" alt="isabellacpmelo's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/isabellacpmelo?cardType=level-alternate&theme=gruvbox&preferLogin=false"/>
+    <a align="left" href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="left" width="350px" height="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=@isabellacpmelo&theme=gruvbox" alt="gitHub-wakatime">
     </a>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=isabellacpmelo&theme=gruvbox&border_radius=6.1&card_width=387" alt="GitHub Streak" /></a>
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=gruvbox&preferLogin=false">
+      <img width="390px" alt="gitHub-stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/isabellacpmelo?cardType=level-alternate&theme=gruvbox&preferLogin=false"/>
+    </a>
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=isabellacpmelo&theme=gruvbox&border_radius=6.1&card_width=387" alt="gitHub-streak" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellacpmelo&hide=css,html,portugol,batchfile&theme=gruvbox&layout=compact" alt="gitHub-top-langs"/>
+    </a>
   </div>
 </div>
 
