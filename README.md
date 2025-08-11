@@ -1,7 +1,5 @@
 ## <div align="center"> 👋 Hi there! I’m Isabella Melo, welcome to my `GitHub profile`.</div>
 
-
-
 <br>
 
 <div align="center">
@@ -228,12 +226,13 @@
       <img width="390px" alt="gitHub-stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/isabellacpmelo?cardType=level-alternate&theme=gruvbox&preferLogin=false"/>
     </a>
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=isabellacpmelo&theme=gruvbox&border_radius=6.1&card_width=387" alt="gitHub-streak" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellacpmelo&hide=css,html,portugol,batchfile&theme=gruvbox&layout=compact" alt="gitHub-top-langs"/>
+      <img src="https://github-readme-streak-stats-rosy-chi-86.vercel.app?user=isabellacpmelo&theme=gruvbox&border_radius=6.1&card_width=387" alt="gitHub-streak" />
     </a>
   </div>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellacpmelo&hide=css,html,portugol,batchfile&theme=gruvbox&layout=compact" alt="gitHub-top-langs"/>
+  </a>
 </div>
 
 <!--
