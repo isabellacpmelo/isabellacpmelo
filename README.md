@@ -203,13 +203,23 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img style="width: auto; height: 90px;" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" 
-        alt=">linkedin-logo"/>
-        <br>Linkedin 
+        <a href="https://www.linkedin.com/in/isabella-cpmelo/">
+          <img style="width: auto; height: 90px;" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" 
+          alt=">linkedin-logo"/>
+          <br>Linkedin
+        </a>
       </td>
       <td align="center">
-        <img style="width: auto; height: 90px;" src="https://img.icons8.com/?size=100&id=JeO1Kv9jsmLr&format=png&color=000000" alt="email-logo"/>
-        <br>Email
+        <a href="mailto:isacpmelo@gmail.com">
+          <img style="width: auto; height: 90px;" src="https://img.icons8.com/?size=100&id=JeO1Kv9jsmLr&format=png&color=000000" alt="email-logo"/>
+          <br>Email
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://isamelo.netlify.app/">
+          <img style="width: auto; height: 90px;" src="https://i.imgur.com/E7A84HC.png" alt="webpage-logo"/>
+          <br>Webpage
+        </a>
       </td>
     </tr>
   </table>
@@ -232,7 +242,7 @@
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellacpmelo&hide=css,html,portugol,batchfile&theme=gruvbox&layout=compact" alt="gitHub-top-langs"/>
-  </a>
+  
 </div>
 
 <!--
