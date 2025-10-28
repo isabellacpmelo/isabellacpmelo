@@ -203,7 +203,7 @@
   <table align="center">
     <tr>
       <td align="center">
-        <a href="https://www.linkedin.com/in/isabella-cpmelo/">
+        <a href="https://www.linkedin.com/in/isabella-cpmelo/" target="_blank">
           <img style="width: auto; height: 90px;" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" 
           alt=">linkedin-logo"/>
           <br>Linkedin
@@ -216,7 +216,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://isamelo.netlify.app/">
+        <a href="https://isamelo.netlify.app/" target="_blank">
           <img style="width: auto; height: 90px;" src="https://i.imgur.com/E7A84HC.png" alt="webpage-logo"/>
           <br>Webpage
         </a>
