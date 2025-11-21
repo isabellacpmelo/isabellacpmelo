@@ -17,20 +17,23 @@
 <br>
 
 <div>
-  <ou>
-    <li>
-      👩‍💻 I'm a Full Stack Developer and Computer Science student.
-    </li>
-    <li>
-      🖥️ I specialize in building digital products with modern web and desktop technologies. My main focus is on Frontend development, working with Vue.js, Nuxt.js, Vuetify, and Quasar to create intuitive and high-performance user interfaces. On the Backend, I have experience with Node.js, Python, and Django, building scalable and efficient APIs. I also develop desktop applications using Rust with the Tauri framework.
-    </li>
-    <li>
-      📒 My GitHub serves as a digital notebook where I document my learning journey, share projects, and collaborate with others. I'm always exploring new technologies and refining my skills to stay ahead in this ever-evolving field.
-    </li>
-    <li>
-      📬 Feel free to reach out if you have any questions, suggestions, or just want to connect! You can find my contact details in the "Connect with me" section below.
-    </li>
-  </ou>
+<ul>
+  <li>
+    🚀 I'm a <strong>Software Developer</strong> with a strong focus on <strong>Frontend Architecture</strong> and <strong>UI Engineering</strong>.
+  </li>
+  <li>
+    💻 <strong>Frontend & Mobile:</strong> My core expertise lies in building complex, high-performance interfaces using <strong>Vue.js (Nuxt 3, Quasar)</strong>, <strong>React</strong>, and <strong>Angular</strong>, always backed by <strong>TypeScript</strong> and <strong>Tailwind CSS</strong>.
+  </li>
+  <li>
+    🦀 <strong>Desktop & Innovation:</strong> I bridge the gap between web and native performance by developing secure, lightweight desktop apps using <strong>Rust</strong> and <strong>Tauri</strong>.
+  </li>
+  <li>
+    🤖 <strong>AI & Backend:</strong> I don't just consume APIs; I build them. I have solid experience with <strong>Python (Django)</strong>, <strong>Node.js</strong>, and integrating <strong>GenAI Agents (LLMs/MCP)</strong> into user workflows.
+  </li>
+  <li>
+     📬 <strong>Connect with me:</strong> I'm always open to discussing new technologies, open-source projects, or career opportunities. Check out my contacts below!
+  </li>
+</ul>
 </div>
 
 <br>
